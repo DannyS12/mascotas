@@ -1,4 +1,4 @@
-<?php
+lo<?php
 
 /*----------------------------------------------------------------------------------------
  * Copyright (c) Microsoft Corporation. All rights reserved.
@@ -18,7 +18,7 @@ function sayHello($name) {
 	<body>
 		<?php 
 		
-		sayHello('remote world');
+		sayHello('hello world');
 			
 		phpinfo(); 
 			
